@@ -1,8 +1,4 @@
-body {
-  height: 150vh;
+img {
+  height: auto;
   width: 100%;
-  background-image: url('100.png');
-  background-repeat : no-repeat;
-  background-size : cover;
-  background-attachment: local;
 }
