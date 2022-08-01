@@ -1,7 +1,8 @@
 body {
-  height: 100vh;
-  width: 100vw;
+  height: 150vh;
+  width: 100%;
   background-image: url('100.png');
   background-repeat : no-repeat;
   background-size : cover;
+  background-attachment: local;
 }
